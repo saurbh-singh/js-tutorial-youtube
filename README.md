@@ -1,2 +1,2 @@
-# js-tutorial-youtube
+# js-tutorial
 A code repo for javascript series 
